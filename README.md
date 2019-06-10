@@ -1,1 +1,1 @@
-# Applied-Data-Science-Capstone-Project_Cappadocia-Venue-Recommnedations_-Introduction
+# Applied-Data-Science-Capstone-Project_Cappadocia-Venue-Recommendations_-Introduction
